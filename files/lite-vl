@@ -166,6 +166,7 @@ function memulai_pengecekan() {
     done
     
     rm -f /tmp/other.txt /tmp/ipvless.txt
+    echo -n > /var/log/xray/access.log
     sleep 2
 
 }

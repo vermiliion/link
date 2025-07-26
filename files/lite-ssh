@@ -139,7 +139,7 @@ function memulai_pengecekan() {
     apply_lock_logic
     display_logins_output
     rm -f /tmp/login-db.txt /tmp/login-sshd.txt /tmp/user_login_ips.txt /tmp/unique_user_login_ips.txt
-    echo -n > "$LOG_FILE"
+    echo -n > /var/log/auth.log
     sleep 2
 }
 
