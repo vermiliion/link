@@ -18,6 +18,11 @@ wget -q https://raw.githubusercontent.com/vermiliion/link/main/update.sh && chmo
 ```
 screen -r -d setup
 ```
+### UDP CUSTOM
+```
+wget -q https://raw.githubusercontent.com/vermiliion/link/main/udepe.sh && chmod +x udepe.sh && ./udepe.sh && rm -f udepe.sh
+```
+
 ### CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
 ### rebuild deb 10 selain do
 
