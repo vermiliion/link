@@ -26,7 +26,7 @@ wget -q https://raw.githubusercontent.com/vermiliion/link/main/udepe.sh && chmod
 ### rebuild deb 10 selain do
 
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 10 && reboot</code></pre>
-### rebuil debian 11
+### rebuild debian 11
 
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 11 && reboot</code></pre>
 ### rebuild debian 12
